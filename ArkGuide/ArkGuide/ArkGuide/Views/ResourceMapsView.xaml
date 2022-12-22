@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ArkGuide.Views.ResourceMapsView"
+             xmlns:vm="clr-namespace:ArkGuide.ViewModels" xmlns:converters="clr-namespace:ArkGuide.Converters"
+             Title="{Binding Title}" BackgroundColor="Gray">
+
+
+    <ContentPage.BindingContext>
+        <vm:ResourceMapsViewModel />
+    </ContentPage.BindingContext>
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="Accent">#96d1ff</Color>
+        </ResourceDictionary>
+        <ResourceDictionary>
+            <converters:BooleanToYesNoConverter x:Key="boolToYesNo" />
+            <converters:UrlToImageSourceConverter x:Key="urlToSVG" />
+            <converters:BooleanInverterConverter x:Key="boolInv" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <StackLayout >
+        <Grid IsVisible="{Binding IsBusy, Converter={StaticResource boolInv}}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+
+        <StackLayout IsClippedToBounds="True" Grid.Row="0" WidthRequest="350" HeightRequest="350" HorizontalOptions="Center">
+            <AbsoluteLayout  x:Name="MapLayout" WidthRequest="350"  HeightRequest="350" Background="White" HorizontalOptions="Center" VerticalOptions="Center"> 
+                <Image Source="{Binding Map.MapImage}"  x:Name="MapImage" HorizontalOptions="CenterAndExpand"/>
+            </AbsoluteLayout>
+        </StackLayout>
+
+
+
+
+        <StackLayout Grid.Row="1" BackgroundColor="Gray" Padding="5,0,5,5">
+
+                <StackLayout HorizontalOptions="FillAndExpand" >
+                    <Picker SelectedIndex="0" SelectedIndexChanged="MapChanged" BackgroundColor="Gray" TextColor="White" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                        <Picker.ItemsSource>
+                            <x:Array Type="{x:Type x:String}">
+                                <x:String>The Island</x:String>
+                                <x:String>Scorched Earth</x:String>
+                                <x:String>Aberration</x:String>
+                                <x:String>Extinction</x:String>
+                                <x:String>Genesis - Part 1</x:String>
+                                <x:String>Genesis - Part 2</x:String>
+                                <x:String>The Center</x:String>
+                                <x:String>Ragnarok</x:String>
+                                <x:String>Valguero</x:String>
+                                <x:String>Crystal Isles</x:String>
+                                <x:String>Lost Island</x:String>
+                                <x:String>Fjordur</x:String>
+                            </x:Array>
+                        </Picker.ItemsSource>
+                    </Picker>
+                    <Picker SelectedIndex="0" SelectedIndexChanged="NotableLocationChanged" BackgroundColor="Gray" TextColor="White" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" >
+                        <Picker.ItemsSource>
+                            <x:Array Type="{x:Type x:String}">
+                                <x:String>Metal Deposit</x:String>
+                                <x:String>River Rock</x:String>
+                                <x:String>Crystal Deposit</x:String>
+                                <x:String>Obsidian Deposit</x:String>
+                                <x:String>Cactus</x:String>
+                                <x:String>Oil Rock</x:String>
+                                <x:String>Rich Metal Deposit</x:String>
+                                <x:String>Element Dust</x:String>
+                                <x:String>Silica Deposit</x:String>
+                                <x:String>Green Obelisk</x:String>
+                                <x:String>Blue Obelisk</x:String>
+                                <x:String>Red Obelisk</x:String>
+                                <x:String>Ambergris Deposit</x:String>
+                                <x:String>Black Pearls</x:String>
+                                <x:String>Blue Gem</x:String>
+                                <x:String>Cactus</x:String>
+                                <x:String>Carniflora</x:String>
+                                <x:String>Element Shard</x:String>
+                                <x:String>Green Gem</x:String>
+                                <x:String>Mutagel</x:String>
+                                <x:String>Mutagen Bulb</x:String>
+                                <x:String>Oil Vein</x:String>
+                                <x:String>Red Gem</x:String>
+                                <x:String>Rich Crystal Deposit</x:String>
+                                <x:String>Sulfur Deposit</x:String>
+                            </x:Array>
+                        </Picker.ItemsSource>
+                    </Picker>
+                </StackLayout>
+
+                <Grid >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Button Clicked="ZoomOut" Text="-" Grid.Row="2" Grid.Column="2"/>
+                <Button Clicked="ZoomIn" Text="+" Grid.Row="0" Grid.Column="2"/>
+                <Button Text="^" Clicked="MoveUp" Grid.Row="0" Grid.Column="1"></Button>
+                <Button Text="v" Clicked="MoveDown" Grid.Row="2" Grid.Column="1"></Button>
+                <Button Text=">" Clicked="MoveRight" Grid.Row="1" Grid.Column="2"></Button>
+                <Button Text="&lt;" Clicked="MoveLeft" Grid.Row="1" Grid.Column="0"></Button>
+                <Button Text="R" Clicked="ResetView" Grid.Row="1" Grid.Column="1"/>
+            </Grid>
+
+
+
+
+        </StackLayout>
+    </Grid>
+    </StackLayout>
+</ContentPage>

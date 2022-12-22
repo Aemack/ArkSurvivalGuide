@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+xmlns:telerikPrimitives="clr-namespace:Telerik.XamarinForms.Primitives;assembly=Telerik.XamarinForms.Primitives"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:converters="clr-namespace:ArkGuide.Converters" xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms" xmlns:ffimageloadingsvg="clr-namespace:FFImageLoading.Svg.Forms;assembly=FFImageLoading.Svg.Forms"
+                 xmlns:svg="clr-namespace:Xamarin.Forms.Extensions.Svg;assembly=XamExtensionsSvg"
+             x:Class="ArkGuide.Views.CreaturePage">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converters:BooleanToYesNoConverter x:Key="boolToYesNo" />
+            <converters:UrlToImageSourceConverter x:Key="urlToSVG" />
+            <ffimageloadingsvg:SvgImageSourceConverter x:Key="SvgImageSourceConverter"></ffimageloadingsvg:SvgImageSourceConverter>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout BackgroundColor="Gray" VerticalOptions="Start">
+                <Label FontSize="28" HorizontalTextAlignment="Center" TextDecorations="Underline" Text="{Binding Creature.Name}" TextColor="White"/>
+                <Label FontSize="16" HorizontalTextAlignment="Center" FontAttributes="Italic" TextDecorations="None" Text="{Binding Creature.Group}" TextColor="White"/>
+
+
+                <Image Source="{Binding Creature.ImageUrl}" Aspect="AspectFit" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" HeightRequest="250" />
+                <Frame Margin="10">
+                    <StackLayout>
+                    <Frame Background="Gray" BorderColor="Black">
+                        <Label Text="Basic Info" FontSize="26" HorizontalTextAlignment="Center" TextColor="White"/>
+                    </Frame>
+                    <Grid>
+
+
+
+
+
+                            <Label FontSize="18" Grid.Row="1" Grid.Column="0" Text="Tamable:" TextColor="Black"/>
+                            <Label FontSize="18" Grid.Row="1" Grid.Column="1" Text="{Binding Creature.Tameable, Converter={StaticResource boolToYesNo}}" TextColor="Black"/>
+
+                            <Label FontSize="18" Grid.Row="2" Grid.Column="0" Text="Breedable:" TextColor="Black"/>
+                            <Label FontSize="18" Grid.Row="2" Grid.Column="1" Text="{Binding Creature.Breedable, Converter={StaticResource boolToYesNo}}" TextColor="Black"/>
+
+                            <Label FontSize="18" Grid.Row="3" Grid.Column="0" Text="Ridable:" TextColor="Black"/>
+                            <Label FontSize="18" Grid.Row="3" Grid.Column="1" Text="{Binding Creature.Rideable, Converter={StaticResource boolToYesNo}}" TextColor="Black"/>
+
+                            <Label FontSize="18" Grid.Row="4" Grid.Column="0" Text="Rider Weaponry:" TextColor="Black"/>
+                            <Label FontSize="18" Grid.Row="4" Grid.Column="1" Text="{Binding Creature.RiderWeaponry, Converter={StaticResource boolToYesNo}}" TextColor="Black"/>
+
+                            <Label FontSize="18" Grid.Row="5" Grid.Column="0" Text="Radiation Immune:" TextColor="Black"/>
+                            <Label FontSize="18" Grid.Row="5" Grid.Column="1" Text="{Binding Creature.RadiationImmune, Converter={StaticResource boolToYesNo}}" TextColor="Black"/>
+
+                            <Label FontSize="18" Grid.Row="6" Grid.Column="0" Text="Torpor Immune:" TextColor="Black"/>
+                            <Label FontSize="18" Grid.Row="6" Grid.Column="1" Text="{Binding Creature.TorporImmune, Converter={StaticResource boolToYesNo}}" TextColor="Black"/>
+
+                            <Label FontSize="18" Grid.Row="7" Grid.Column="0" Text="Diet:" TextColor="Black"/>
+                            <Label FontSize="18" Grid.Row="7" Grid.Column="1" Text="{Binding Creature.Diet}" TextColor="Black"/>
+
+                            <Label FontSize="18" Grid.Row="8" Grid.Column="0" Text="Preffered Food:" TextColor="Black"/>
+                            <Label FontSize="18" Grid.Row="8" Grid.Column="1" Text="{Binding Creature.PreferredFood}" TextColor="Black"/>
+
+                            <Label FontSize="18" Grid.Row="9" Grid.Column="0" Text="Taming Method:" TextColor="Black"/>
+                            <Label FontSize="18" Grid.Row="9" Grid.Column="1" Text="{Binding Creature.TamingMethod}" TextColor="Black"/>
+
+                            <Label FontSize="18" Grid.Row="10" Grid.Column="0" Text="Temperment:" TextColor="Black"/>
+                            <Label FontSize="18" Grid.Row="10" Grid.Column="1" Text="{Binding Creature.Temperament}" TextColor="Black"/>
+                        <Label FontSize="18" Grid.Row="11" Grid.Column="1" />
+                    </Grid>
+                    </StackLayout>
+                </Frame>
+                <Frame Margin="10">
+                    <StackLayout>
+                        <Frame BorderColor="Black" BackgroundColor="Gray">
+                            <Label Text="Base Stats" FontSize="25" HorizontalTextAlignment="Center" TextColor="White"/>
+                        </Frame>
+                        <Grid Margin="10" >
+
+                            <Label Text="Health" Grid.Column="0" Grid.Row="0" FontSize="18" TextColor="Black"/>
+                            <Label Text="{Binding Creature.BaseStats.Health}" Grid.Column="1" Grid.Row="0" FontSize="18" TextColor="Black"/>
+
+                            <Label Text="Stamina" Grid.Column="0" Grid.Row="1" FontSize="18" TextColor="Black"/>
+                            <Label Text="{Binding Creature.BaseStats.Stamina}" Grid.Column="1" Grid.Row="1" FontSize="18" TextColor="Black"/>
+
+                            <Label Text="Oxygen" Grid.Column="0" Grid.Row="2" FontSize="18" TextColor="Black"/>
+                            <Label Text="{Binding Creature.BaseStats.Oxygen}" Grid.Column="1" Grid.Row="2" FontSize="18" TextColor="Black"/>
+
+                            <Label Text="Melee Damage" Grid.Column="0" Grid.Row="3" FontSize="18" TextColor="Black"/>
+                            <Label Text="{Binding Creature.BaseStats.MeleeDamage}" Grid.Column="1" Grid.Row="3" FontSize="18" TextColor="Black"/>
+
+                            <Label Text="Movement Speed" Grid.Column="0" Grid.Row="4" FontSize="18" TextColor="Black"/>
+                            <Label Text="{Binding Creature.BaseStats.MovementSpeed}" Grid.Column="1" Grid.Row="4" FontSize="18" TextColor="Black"/>
+
+                            <Label Text="Weight" Grid.Column="0" Grid.Row="5" FontSize="18" TextColor="Black"/>
+                            <Label Text="{Binding Creature.BaseStats.Weight}" Grid.Column="1" Grid.Row="5" FontSize="18" TextColor="Black"/>
+
+                            <Label Text="Torpidity" Grid.Column="0" Grid.Row="6" FontSize="18" TextColor="Black"/>
+                            <Label Text="{Binding Creature.BaseStats.Torpidity}" Grid.Column="1" Grid.Row="6" FontSize="18" TextColor="Black"/>
+                            <Label Grid.Row="7" FontSize="18"/>
+
+                        </Grid>
+                    </StackLayout>
+                </Frame>
+
+                <Frame Background="White" HorizontalOptions="Center" Margin="10">
+                    <StackLayout>
+                        <Frame Background="Gray" BorderColor="Black">
+                            <Label Text="Spawn Commands" FontSize="25" HorizontalTextAlignment="Center" TextColor="White"/>
+                        </Frame>
+                        <ScrollView>
+                            <ListView ItemsSource="{Binding Creature.SpawnCommands}" ItemSelected="Command_Selected"/>
+                        </ScrollView>
+
+                    </StackLayout>
+                </Frame>
+
+                <Frame Background="White" HorizontalOptions="Center" Margin="10">
+                    <StackLayout HorizontalOptions="Center">
+                        <StackLayout  Margin="10">
+                            <Frame Background="Gray" BorderColor="Black">
+                                <Label Text="Spawn Map" FontSize="25" HorizontalTextAlignment="Center" TextColor="White"/>
+                            </Frame>
+                            <Frame BorderColor="Black">
+                                <Picker SelectedIndex="1" SelectedIndexChanged="SpawnMapChanged" TextColor="Black" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" ItemsSource="{Binding Creature.SpawningMaps}" x:Name="MapsPicker" />
+                            </Frame>
+                        </StackLayout>
+                        
+                        <RelativeLayout HorizontalOptions="CenterAndExpand">
+                            <Image Source="{Binding CurrentSpawningMap.MapImage}" HeightRequest="350" WidthRequest="350" HorizontalOptions="Center"/>
+                            <svg:SvgImage Source="{Binding CurrentSpawningMap.OverlayImage}" HeightRequest="350" WidthRequest="350" HorizontalOptions="Center"/>
+                        </RelativeLayout>
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

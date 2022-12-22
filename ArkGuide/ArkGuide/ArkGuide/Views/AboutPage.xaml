@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ArkGuide.Views.AboutPage"
+             xmlns:vm="clr-namespace:ArkGuide.ViewModels"
+             Title="{Binding Title}">
+
+    <ContentPage.BindingContext>
+        <vm:AboutViewModel />
+    </ContentPage.BindingContext>
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="Accent">#96d1ff</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <Grid IsClippedToBounds="True" BackgroundColor="Gray">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3.2*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackLayout IsClippedToBounds="True" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" >
+            <AbsoluteLayout  x:Name="MapLayout"  AbsoluteLayout.LayoutFlags="All" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                <Image Source="{Binding Map.MapImage}" />
+            </AbsoluteLayout>
+        </StackLayout>
+
+
+
+
+        <StackLayout Orientation="Horizontal" Grid.Row="1" BackgroundColor="Gray" Padding="5,5,5,5">
+
+
+            <Grid >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Button Clicked="ZoomOut" Text="-" Grid.Row="2" Grid.Column="2"/>
+                <Button Clicked="ZoomIn" Text="+" Grid.Row="0" Grid.Column="2"/>
+                <Button Text="^" Clicked="MoveUp" Grid.Row="0" Grid.Column="1"></Button>
+                <Button Text="v" Clicked="MoveDown" Grid.Row="2" Grid.Column="1"></Button>
+                <Button Text=">" Clicked="MoveRight" Grid.Row="1" Grid.Column="2"></Button>
+                <Button Text="&lt;" Clicked="MoveLeft" Grid.Row="1" Grid.Column="0"></Button>
+                <Button Text="R" Clicked="ResetView" Grid.Row="1" Grid.Column="1"/>
+            </Grid>
+            
+            <StackLayout HorizontalOptions="FillAndExpand" >
+
+                <Picker SelectedIndex="1" SelectedIndexChanged="MapChanged" BackgroundColor="WhiteSmoke" TextColor="Black" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                    <Picker.ItemsSource>
+                        <x:Array Type="{x:Type x:String}">
+                            <x:String>The Island</x:String>
+                            <x:String>Scorched Earth</x:String>
+                            <x:String>Aberration</x:String>
+                            <x:String>Extinction</x:String>
+                            <x:String>Genesis - Part 1</x:String>
+                            <x:String>Genesis - Part 2</x:String>
+                            <x:String>The Center</x:String>
+                            <x:String>Ragnarok</x:String>
+                            <x:String>Valguero</x:String>
+                            <x:String>Crystal Isles</x:String>
+                            <x:String>Lost Island</x:String>
+                            <x:String>Fjordur</x:String>
+                        </x:Array>
+                    </Picker.ItemsSource>
+                </Picker>
+                <Picker SelectedIndex="1" SelectedIndexChanged="NotableLocationChanged" BackgroundColor="WhiteSmoke" TextColor="Black" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">   
+                    <Picker.ItemsSource>
+                        <x:Array Type="{x:Type x:String}">
+                            <x:String>Metal Deposit</x:String>
+                            <x:String>River Rock</x:String>
+                            <x:String>Crystal Deposit</x:String>
+                            <x:String>Obsidian Deposit</x:String>
+                            <x:String>Oil Rock</x:String>
+                            <x:String>Rich Metal Deposit</x:String>
+                            <x:String>Element Dust</x:String>
+                            <x:String>Silica Deposit</x:String>
+                            <x:String>Green Obelisk</x:String>
+                            <x:String>Blue Obelisk</x:String>
+                            <x:String>Red Obelisk</x:String>
+                            <x:String>Ambergris Deposit</x:String>
+                            <x:String>Black Pearls</x:String>
+                            <x:String>Blue Gem</x:String>
+                            <x:String>Cactus</x:String>
+                            <x:String>Carniflora</x:String>
+                            <x:String>Element Shard</x:String>
+                            <x:String>Green Gem</x:String>
+                            <x:String>Mutagel</x:String>
+                            <x:String>Mutagen Bulb</x:String>
+                            <x:String>Oil Vein</x:String>
+                            <x:String>Red Gem</x:String>
+                            <x:String>Rich Crystal Deposit</x:String>
+                            <x:String>Sulfur Deposit</x:String>
+                        </x:Array>
+                    </Picker.ItemsSource>
+                </Picker>
+            </StackLayout>
+            
+
+        </StackLayout>
+    </Grid>
+    
+</ContentPage>

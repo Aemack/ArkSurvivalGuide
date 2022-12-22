@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300"
+        viewBox="0 0 300 300" class="creatureMap" style="position:absolute;">
+    <defs>
+        <filter id="blur" x="-30%" y="-30%" width="160%" height="160%">
+            <feGaussianBlur stdDeviation="3" />
+        </filter>
+        <pattern id="pattern-untameable" width="10" height="10" patternTransform="rotate(135)" patternUnits="userSpaceOnUse">
+            <rect width="4" height="10" fill="black"></rect>
+        </pattern>
+        <filter id="groupStroke">
+            <feFlood result="outsideColor" flood-color="black"/>
+            <feMorphology in="SourceAlpha" operator="dilate" radius="2"/>
+            <feComposite result="strokeoutline1" in="outsideColor" operator="in"/>
+            <feComposite result="strokeoutline2" in="strokeoutline1" in2="SourceAlpha" operator="out"/>
+            <feGaussianBlur in="strokeoutline2" result="strokeblur" stdDeviation="1"/>
+        </filter>
+        <style>
+            .spawningMap-very-common { fill: #0F0; }
+            .spawningMap-common { fill: #B2FF00; }
+            .spawningMap-uncommon { fill: #FF0; }
+            .spawningMap-very-uncommon { fill: #FC0; }
+            .spawningMap-rare { fill: #F60; }
+            .spawningMap-very-rare { fill: #F00; }
+            .spawning-map-point { stroke:black; stroke-width:1; }
+        </style>
+    </defs>
+
+<g filter="url(#blur)" opacity="0.7">
+<g class="spawningMap-very-common">
+<rect x="37" y="226" width="12" height="11" />
+<rect x="29" y="72" width="12" height="12" />
+<rect x="49" y="67" width="12" height="11" />
+<rect x="103" y="118" width="12" height="11" />
+<rect x="124" y="153" width="14" height="14" />
+<rect x="127" y="100" width="11" height="11" />
+<rect x="185" y="95" width="12" height="12" />
+<rect x="253" y="167" width="18" height="18" />
+<rect x="265" y="199" width="18" height="18" />
+<rect x="221" y="199" width="18" height="18" />
+<rect x="180" y="221" width="18" height="18" />
+<rect x="118" y="35" width="18" height="18" />
+<rect x="183" y="256" width="15" height="15" />
+<rect x="47" y="237" width="11" height="11" />
+<rect x="136" y="103" width="12" height="11" />
+<rect x="183" y="204" width="12" height="12" />
+<rect x="135" y="72" width="18" height="18" />
+<rect x="97" y="73" width="14" height="15" />
+</g>
+</g>
+</svg>

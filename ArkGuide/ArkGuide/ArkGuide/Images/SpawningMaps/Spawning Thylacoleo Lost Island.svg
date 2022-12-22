@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300" class="creatureMap" style="position:absolute;">
+<defs>
+    <filter id="blur" x="-30%" y="-30%" width="160%" height="160%">
+        <feGaussianBlur stdDeviation="3" />
+    </filter>
+    <style>
+        .spawningMap-very-common { fill: #0F0; }
+        .spawningMap-common { fill: #B2FF00; }
+        .spawningMap-uncommon { fill: #FF0; }
+        .spawningMap-very-uncommon { fill: #FC0; }
+        .spawningMap-rare { fill: #F60; }
+        .spawningMap-very-rare { fill: #F00; }
+        .spawning-map-point { stroke:black; stroke-width:1; }
+    </style>
+</defs>
+<g filter="url(#blur)" opacity="0.7">
+    <g class="spawningMap-very-common">
+        <rect x="188" y="259" width="11" height="12" />
+        <rect x="188" y="265" width="11" height="11" />
+        <rect x="194" y="259" width="11" height="12" />
+        <rect x="216" y="271" width="11" height="11" />
+        <rect x="182" y="259" width="11" height="12" />
+        <rect x="182" y="265" width="11" height="11" />
+        <rect x="194" y="271" width="11" height="11" />
+        <rect x="188" y="271" width="11" height="11" />
+        <rect x="182" y="271" width="11" height="11" />
+        <rect x="194" y="265" width="11" height="12" />
+        <rect x="199" y="254" width="11" height="11" />
+        <rect x="193" y="254" width="12" height="11" />
+        <rect x="188" y="254" width="11" height="11" />
+        <rect x="199" y="248" width="11" height="11" />
+        <rect x="182" y="248" width="11" height="11" />
+        <rect x="182" y="254" width="11" height="11" />
+    </g></g>
+<g class="spawning-map-point" opacity="0.8">
+    <g class="spawningMap-rare">
+        <circle cx="128" cy="150" r="4.0" />
+        <circle cx="128" cy="147" r="4.0" />
+        <circle cx="129" cy="144" r="4.0" />
+        <circle cx="128" cy="152" r="4.0" />
+        <circle cx="133" cy="150" r="4.0" />
+        <circle cx="134" cy="150" r="4.0" />
+        <circle cx="134" cy="150" r="4.0" />
+        <circle cx="135" cy="149" r="4.0" />
+        <circle cx="136" cy="147" r="4.0" />
+        <circle cx="137" cy="148" r="4.0" />
+        <circle cx="138" cy="146" r="4.0" />
+        <circle cx="138" cy="146" r="4.0" />
+        <circle cx="138" cy="145" r="4.0" />
+        <circle cx="140" cy="145" r="4.0" />
+        <circle cx="142" cy="146" r="4.0" />
+        <circle cx="143" cy="149" r="4.0" />
+        <circle cx="143" cy="150" r="4.0" />
+        <circle cx="142" cy="153" r="4.0" />
+        <circle cx="143" cy="154" r="4.0" />
+        <circle cx="147" cy="159" r="4.0" />
+        <circle cx="147" cy="158" r="4.0" />
+        <circle cx="150" cy="152" r="4.0" />
+        <circle cx="151" cy="148" r="4.0" />
+        <circle cx="150" cy="146" r="4.0" />
+        <circle cx="146" cy="147" r="4.0" />
+        <circle cx="139" cy="158" r="4.0" />
+        <circle cx="138" cy="160" r="4.0" />
+        <circle cx="140" cy="134" r="4.0" />
+        <circle cx="136" cy="135" r="4.0" />
+        <circle cx="141" cy="138" r="4.0" />
+        <circle cx="144" cy="138" r="4.0" />
+        <circle cx="147" cy="138" r="4.0" />
+        <circle cx="149" cy="138" r="4.0" />
+        <circle cx="151" cy="141" r="4.0" />
+        <circle cx="150" cy="143" r="4.0" />
+        <circle cx="156" cy="125" r="4.0" />
+        <circle cx="182" cy="130" r="4.0" />
+        <circle cx="188" cy="132" r="4.0" />
+        <circle cx="186" cy="134" r="4.0" />
+        <circle cx="179" cy="135" r="4.0" />
+        <circle cx="179" cy="133" r="4.0" />
+        <circle cx="181" cy="129" r="4.0" />
+        <circle cx="170" cy="149" r="4.0" />
+        <circle cx="171" cy="151" r="4.0" />
+        <circle cx="164" cy="150" r="4.0" />
+    </g></g>
+</svg>

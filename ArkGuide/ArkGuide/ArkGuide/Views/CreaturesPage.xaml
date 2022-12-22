@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ArkGuide.Views.CreaturesPage" 
+             xmlns:vm="clr-namespace:ArkGuide.ViewModels" xmlns:converters="clr-namespace:ArkGuide.Converters"
+             Title="{Binding Title}">
+
+    <ContentPage.BindingContext>
+        <vm:CreaturesViewModel />
+    </ContentPage.BindingContext>
+
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converters:BoolToTickCrossConverter x:Key="boolToTick" />
+            <converters:InvertedBoolToStrikethrough x:Key="boolToStrike" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="Gray">
+            <ListView ItemsSource="{Binding Creatures}" ItemSelected="CreatureClicked" HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid Margin="10" Padding="10"> 
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="2*"/>
+                                    <ColumnDefinition Width="2*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <Image Grid.Column="0" Source="{Binding ImageUrl}" />
+
+                                <StackLayout Grid.Column="1">
+                                <Label  Text="{Binding Name}" FontSize="20"  VerticalOptions="Center"/>
+                                    <Label  Text="{Binding Group}" FontSize="16" VerticalOptions="Center"/>
+                                </StackLayout>
+
+                                <StackLayout Grid.Column="2" >
+                                    <Label Text="Tameable" HorizontalOptions="Center" FontSize="14" TextColor="{Binding Tameable, Converter={StaticResource boolToTick}}" TextDecorations="{Binding Tameable, Converter={StaticResource boolToStrike}}"/>
+                                    <Label Text="Breedable" HorizontalOptions="Center" FontSize="14"  TextColor="{Binding Breedable, Converter={StaticResource boolToTick}}" TextDecorations="{Binding Breedable, Converter={StaticResource boolToStrike}}" />
+                                    <Label Text="Rideable" HorizontalOptions="Center" FontSize="14"  TextColor="{Binding Rideable, Converter={StaticResource boolToTick}}" TextDecorations="{Binding Rideable, Converter={StaticResource boolToStrike}}"/>
+                                </StackLayout>
+                                
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300" class="creatureMap" style="position:absolute;">
+<defs>
+    <filter id="blur" x="-30%" y="-30%" width="160%" height="160%">
+        <feGaussianBlur stdDeviation="3" />
+    </filter>
+    <style>
+        .spawningMap-very-common { fill: #0F0; }
+        .spawningMap-common { fill: #B2FF00; }
+        .spawningMap-uncommon { fill: #FF0; }
+        .spawningMap-very-uncommon { fill: #FC0; }
+        .spawningMap-rare { fill: #F60; }
+        .spawningMap-very-rare { fill: #F00; }
+        .spawning-map-point { stroke:black; stroke-width:1; }
+    </style>
+</defs>
+<g class="spawning-map-point" opacity="0.8">
+    <g class="spawningMap-very-uncommon">
+        <circle cx="265" cy="42" r="4.0" />
+        <circle cx="267" cy="44" r="4.0" />
+        <circle cx="264" cy="68" r="4.0" />
+        <circle cx="266" cy="58" r="4.0" />
+        <circle cx="274" cy="54" r="4.0" />
+        <circle cx="255" cy="40" r="4.0" />
+        <circle cx="258" cy="47" r="4.0" />
+        <circle cx="262" cy="51" r="4.0" />
+        <circle cx="255" cy="57" r="4.0" />
+        <circle cx="266" cy="44" r="4.0" />
+        <circle cx="269" cy="44" r="4.0" />
+        <circle cx="263" cy="67" r="4.0" />
+        <circle cx="264" cy="57" r="4.0" />
+        <circle cx="263" cy="54" r="4.0" />
+        <circle cx="254" cy="41" r="4.0" />
+        <circle cx="259" cy="47" r="4.0" />
+        <circle cx="262" cy="50" r="4.0" />
+        <circle cx="257" cy="59" r="4.0" />
+        <circle cx="200" cy="82" r="4.0" />
+        <circle cx="192" cy="86" r="4.0" />
+        <circle cx="192" cy="104" r="4.0" />
+        <circle cx="201" cy="84" r="4.0" />
+        <circle cx="191" cy="88" r="4.0" />
+        <circle cx="190" cy="105" r="4.0" />
+        <circle cx="188" cy="102" r="4.0" />
+        <circle cx="189" cy="99" r="4.0" />
+        <circle cx="188" cy="93" r="4.0" />
+        <circle cx="200" cy="72" r="4.0" />
+        <circle cx="193" cy="76" r="4.0" />
+        <circle cx="205" cy="73" r="4.0" />
+        <circle cx="206" cy="77" r="4.0" />
+        <circle cx="184" cy="93" r="4.0" />
+        <circle cx="200" cy="73" r="4.0" />
+        <circle cx="196" cy="76" r="4.0" />
+        <circle cx="202" cy="77" r="4.0" />
+        <circle cx="203" cy="81" r="4.0" />
+    </g>
+    <g class="spawningMap-uncommon">
+        <circle cx="252" cy="183" r="4.0" />
+        <circle cx="256" cy="184" r="4.0" />
+        <circle cx="249" cy="189" r="4.0" />
+        <circle cx="248" cy="187" r="4.0" />
+        <circle cx="244" cy="193" r="4.0" />
+        <circle cx="256" cy="181" r="4.0" />
+        <circle cx="252" cy="179" r="4.0" />
+        <circle cx="254" cy="184" r="4.0" />
+        <circle cx="262" cy="185" r="4.0" />
+        <circle cx="251" cy="187" r="4.0" />
+        <circle cx="256" cy="186" r="4.0" />
+        <circle cx="258" cy="188" r="4.0" />
+        <circle cx="258" cy="189" r="4.0" />
+        <circle cx="259" cy="188" r="4.0" />
+        <circle cx="257" cy="183" r="4.0" />
+        <circle cx="251" cy="177" r="4.0" />
+        <circle cx="257" cy="189" r="4.0" />
+        <circle cx="263" cy="186" r="4.0" />
+    </g></g>
+</svg>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300" class="creatureMap" style="position:absolute;">
+<defs>
+    <filter id="blur" x="-30%" y="-30%" width="160%" height="160%">
+        <feGaussianBlur stdDeviation="3" />
+    </filter>
+    <style>
+        .spawningMap-very-common { fill: #0F0; }
+        .spawningMap-common { fill: #B2FF00; }
+        .spawningMap-uncommon { fill: #FF0; }
+        .spawningMap-very-uncommon { fill: #FC0; }
+        .spawningMap-rare { fill: #F60; }
+        .spawningMap-very-rare { fill: #F00; }
+        .spawning-map-point { stroke:black; stroke-width:1; }
+    </style>
+</defs>
+<g filter="url(#blur)" opacity="0.7">
+    <g class="spawningMap-very-common">
+        <rect x="124" y="148" width="6" height="7" />
+        <rect x="88" y="90" width="9" height="9" />
+        <rect x="119" y="81" width="8" height="8" />
+        <rect x="112" y="68" width="10" height="8" />
+        <rect x="121" y="60" width="10" height="8" />
+        <rect x="126" y="56" width="9" height="10" />
+        <rect x="181" y="203" width="11" height="11" />
+        <rect x="221" y="83" width="11" height="12" />
+        <rect x="181" y="197" width="11" height="11" />
+        <rect x="219" y="71" width="11" height="11" />
+        <rect x="220" y="78" width="11" height="11" />
+        <rect x="155" y="140" width="11" height="11" />
+        <rect x="183" y="172" width="11" height="11" />
+        <rect x="189" y="172" width="11" height="11" />
+        <rect x="193" y="183" width="11" height="11" />
+        <rect x="187" y="178" width="11" height="11" />
+        <rect x="200" y="167" width="11" height="11" />
+        <rect x="187" y="183" width="11" height="11" />
+        <rect x="224" y="109" width="11" height="11" />
+        <rect x="226" y="97" width="11" height="11" />
+        <rect x="218" y="109" width="11" height="11" />
+        <rect x="223" y="92" width="11" height="11" />
+        <rect x="220" y="97" width="11" height="11" />
+        <rect x="151" y="124" width="11" height="11" />
+        <rect x="164" y="136" width="11" height="11" />
+        <rect x="74" y="123" width="9" height="8" />
+        <rect x="161" y="124" width="11" height="11" />
+        <rect x="116" y="76" width="8" height="8" />
+        <rect x="115" y="65" width="10" height="10" />
+        <rect x="119" y="75" width="10" height="10" />
+        <rect x="118" y="78" width="8" height="8" />
+        <rect x="117" y="62" width="8" height="10" />
+        <rect x="118" y="59" width="9" height="9" />
+        <rect x="120" y="55" width="8" height="10" />
+        <rect x="53" y="96" width="11" height="12" />
+        <rect x="117" y="53" width="9" height="10" />
+        <rect x="116" y="57" width="9" height="9" />
+        <rect x="113" y="55" width="9" height="10" />
+        <rect x="115" y="52" width="8" height="10" />
+        <rect x="115" y="62" width="8" height="9" />
+        <rect x="153" y="136" width="11" height="11" />
+    </g></g>
+</svg>

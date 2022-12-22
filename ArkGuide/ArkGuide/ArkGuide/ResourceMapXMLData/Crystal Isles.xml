@@ -1,0 +1,4825 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResourceMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MapName>Crystal Isles</MapName>
+  <NotableLocations>
+    <NotableLoaction>
+      <LocationName>Green Gem</LocationName>
+      <Lat>30.10</Lat>
+      <Long>24.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Green Gem</LocationName>
+      <Lat>19.30</Lat>
+      <Long>75.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Green Gem</LocationName>
+      <Lat>31.60</Lat>
+      <Long>25.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Green Gem</LocationName>
+      <Lat>32.00</Lat>
+      <Long>21.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Green Gem</LocationName>
+      <Lat>31.90</Lat>
+      <Long>21.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Green Gem</LocationName>
+      <Lat>32.20</Lat>
+      <Long>21.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Green Gem</LocationName>
+      <Lat>30.80</Lat>
+      <Long>20.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Green Gem</LocationName>
+      <Lat>30.80</Lat>
+      <Long>20.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Green Gem</LocationName>
+      <Lat>29.10</Lat>
+      <Long>22.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Green Gem</LocationName>
+      <Lat>27.20</Lat>
+      <Long>24.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Green Gem</LocationName>
+      <Lat>27.10</Lat>
+      <Long>24.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Green Gem</LocationName>
+      <Lat>26.90</Lat>
+      <Long>24.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Green Gem</LocationName>
+      <Lat>27.00</Lat>
+      <Long>24.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>35.20</Lat>
+      <Long>31.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>32.20</Lat>
+      <Long>69.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>32.20</Lat>
+      <Long>69.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>24.50</Lat>
+      <Long>80.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>23.10</Lat>
+      <Long>80.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>59.50</Lat>
+      <Long>36.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>55.50</Lat>
+      <Long>48.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>57.80</Lat>
+      <Long>51.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>57.30</Lat>
+      <Long>51.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>58.00</Lat>
+      <Long>51.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>59.00</Lat>
+      <Long>53.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>59.40</Lat>
+      <Long>54.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>59.00</Lat>
+      <Long>54.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>54.60</Lat>
+      <Long>59.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>54.90</Lat>
+      <Long>60.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>55.40</Lat>
+      <Long>60.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>53.10</Lat>
+      <Long>58.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>53.20</Lat>
+      <Long>59.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>52.90</Lat>
+      <Long>58.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>56.60</Lat>
+      <Long>61.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>57.90</Lat>
+      <Long>58.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>57.00</Lat>
+      <Long>57.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>55.70</Lat>
+      <Long>56.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>55.40</Lat>
+      <Long>56.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>56.60</Lat>
+      <Long>55.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>57.80</Lat>
+      <Long>56.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>33.90</Lat>
+      <Long>40.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>33.10</Lat>
+      <Long>42.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>33.60</Lat>
+      <Long>42.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>32.70</Lat>
+      <Long>44.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>32.20</Lat>
+      <Long>44.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>34.80</Lat>
+      <Long>59.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>48.20</Lat>
+      <Long>68.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>48.50</Lat>
+      <Long>69.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>57.30</Lat>
+      <Long>34.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>57.30</Lat>
+      <Long>34.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>56.80</Lat>
+      <Long>35.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>39.20</Lat>
+      <Long>51.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>38.80</Lat>
+      <Long>52.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>38.60</Lat>
+      <Long>52.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>32.90</Lat>
+      <Long>64.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>19.80</Lat>
+      <Long>72.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>29.00</Lat>
+      <Long>49.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>38.20</Lat>
+      <Long>48.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>38.20</Lat>
+      <Long>48.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>38.10</Lat>
+      <Long>49.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>33.40</Lat>
+      <Long>49.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>31.60</Lat>
+      <Long>65.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>31.40</Lat>
+      <Long>65.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>29.70</Lat>
+      <Long>62.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>56.50</Lat>
+      <Long>46.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>56.40</Lat>
+      <Long>46.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>56.30</Lat>
+      <Long>47.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>56.60</Lat>
+      <Long>47.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Obsidian Deposit</LocationName>
+      <Lat>56.50</Lat>
+      <Long>47.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>22.50</Lat>
+      <Long>81.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>22.60</Lat>
+      <Long>81.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>22.60</Lat>
+      <Long>81.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>33.40</Lat>
+      <Long>59.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>33.40</Lat>
+      <Long>59.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>33.20</Lat>
+      <Long>59.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>33.50</Lat>
+      <Long>59.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>33.80</Lat>
+      <Long>59.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>33.90</Lat>
+      <Long>59.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>34.20</Lat>
+      <Long>59.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>34.40</Lat>
+      <Long>59.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>34.70</Lat>
+      <Long>59.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>34.60</Lat>
+      <Long>59.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>34.80</Lat>
+      <Long>59.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>35.00</Lat>
+      <Long>59.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>34.90</Lat>
+      <Long>58.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>34.60</Lat>
+      <Long>58.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>34.50</Lat>
+      <Long>59.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>34.20</Lat>
+      <Long>58.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>34.00</Lat>
+      <Long>58.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>33.70</Lat>
+      <Long>58.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>32.70</Lat>
+      <Long>59.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>32.00</Lat>
+      <Long>59.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>31.70</Lat>
+      <Long>59.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>31.70</Lat>
+      <Long>59.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>33.00</Lat>
+      <Long>60.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>32.80</Lat>
+      <Long>61.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>33.00</Lat>
+      <Long>61.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>32.70</Lat>
+      <Long>61.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>32.10</Lat>
+      <Long>61.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>31.70</Lat>
+      <Long>61.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>31.30</Lat>
+      <Long>61.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>30.70</Lat>
+      <Long>61.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>31.60</Lat>
+      <Long>62.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>32.00</Lat>
+      <Long>62.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>30.50</Lat>
+      <Long>61.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>29.90</Lat>
+      <Long>61.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>29.80</Lat>
+      <Long>61.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>29.50</Lat>
+      <Long>62.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>29.80</Lat>
+      <Long>62.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>29.10</Lat>
+      <Long>63.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>28.60</Lat>
+      <Long>63.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>38.30</Lat>
+      <Long>63.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>28.60</Lat>
+      <Long>62.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>30.90</Lat>
+      <Long>63.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>31.20</Lat>
+      <Long>64.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>30.90</Lat>
+      <Long>64.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>31.30</Lat>
+      <Long>65.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>32.30</Lat>
+      <Long>64.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>32.70</Lat>
+      <Long>64.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>32.40</Lat>
+      <Long>63.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>23.10</Lat>
+      <Long>68.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>58.00</Lat>
+      <Long>34.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>57.70</Lat>
+      <Long>34.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>55.10</Lat>
+      <Long>19.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>55.20</Lat>
+      <Long>19.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>55.00</Lat>
+      <Long>19.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>54.90</Lat>
+      <Long>19.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>54.70</Lat>
+      <Long>19.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>69.40</Lat>
+      <Long>16.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>80.70</Lat>
+      <Long>15.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>28.20</Lat>
+      <Long>72.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>80.70</Lat>
+      <Long>14.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>80.90</Lat>
+      <Long>14.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>81.30</Lat>
+      <Long>14.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>80.30</Lat>
+      <Long>14.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>38.70</Lat>
+      <Long>69.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Rock</LocationName>
+      <Lat>39.00</Lat>
+      <Long>69.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>62.50</Lat>
+      <Long>15.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>62.60</Lat>
+      <Long>15.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>62.50</Lat>
+      <Long>15.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>62.60</Lat>
+      <Long>15.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>59.90</Lat>
+      <Long>32.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>59.80</Lat>
+      <Long>32.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>59.70</Lat>
+      <Long>32.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>59.60</Lat>
+      <Long>33.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>59.70</Lat>
+      <Long>33.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>18.00</Lat>
+      <Long>22.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>39.40</Lat>
+      <Long>61.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>39.60</Lat>
+      <Long>61.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>39.10</Lat>
+      <Long>60.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>38.90</Lat>
+      <Long>29.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>42.10</Lat>
+      <Long>39.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>42.00</Lat>
+      <Long>39.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>42.00</Lat>
+      <Long>40.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>41.80</Lat>
+      <Long>40.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>41.40</Lat>
+      <Long>40.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>41.40</Lat>
+      <Long>40.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>41.00</Lat>
+      <Long>41.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>41.10</Lat>
+      <Long>41.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>41.10</Lat>
+      <Long>41.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>41.30</Lat>
+      <Long>42.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>41.20</Lat>
+      <Long>42.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>41.00</Lat>
+      <Long>43.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>37.90</Lat>
+      <Long>45.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>38.50</Lat>
+      <Long>16.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>38.40</Lat>
+      <Long>15.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>38.30</Lat>
+      <Long>16.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>38.40</Lat>
+      <Long>16.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>30.00</Lat>
+      <Long>15.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>56.50</Lat>
+      <Long>35.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>44.90</Lat>
+      <Long>71.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>44.90</Lat>
+      <Long>70.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>45.00</Lat>
+      <Long>70.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>35.40</Lat>
+      <Long>59.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>35.40</Lat>
+      <Long>59.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>35.40</Lat>
+      <Long>59.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>35.50</Lat>
+      <Long>59.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>35.30</Lat>
+      <Long>59.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>35.20</Lat>
+      <Long>59.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>69.30</Lat>
+      <Long>59.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>71.20</Lat>
+      <Long>52.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>65.60</Lat>
+      <Long>54.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>54.90</Lat>
+      <Long>19.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>54.90</Lat>
+      <Long>19.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>54.90</Lat>
+      <Long>19.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>54.90</Lat>
+      <Long>19.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>54.90</Lat>
+      <Long>19.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>54.80</Lat>
+      <Long>19.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>54.70</Lat>
+      <Long>19.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>54.70</Lat>
+      <Long>19.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>54.80</Lat>
+      <Long>19.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>72.90</Lat>
+      <Long>24.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>72.80</Lat>
+      <Long>24.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>71.90</Lat>
+      <Long>26.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>71.90</Lat>
+      <Long>26.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>72.00</Lat>
+      <Long>26.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>72.00</Lat>
+      <Long>25.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>72.10</Lat>
+      <Long>26.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>72.10</Lat>
+      <Long>26.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>72.00</Lat>
+      <Long>26.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>71.90</Lat>
+      <Long>26.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Silica Deposit</LocationName>
+      <Lat>50.40</Lat>
+      <Long>59.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Blue Obelisk</LocationName>
+      <Lat>27.10</Lat>
+      <Long>57.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>61.50</Lat>
+      <Long>25.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>31.40</Lat>
+      <Long>22.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>31.30</Lat>
+      <Long>22.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>31.90</Lat>
+      <Long>22.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>33.50</Lat>
+      <Long>22.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>33.30</Lat>
+      <Long>22.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>27.40</Lat>
+      <Long>25.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>27.50</Lat>
+      <Long>25.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>27.50</Lat>
+      <Long>25.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>27.40</Lat>
+      <Long>25.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>27.50</Lat>
+      <Long>25.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>27.70</Lat>
+      <Long>25.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>27.60</Lat>
+      <Long>25.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>31.50</Lat>
+      <Long>22.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>24.60</Lat>
+      <Long>80.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>59.70</Lat>
+      <Long>36.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>59.70</Lat>
+      <Long>35.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>59.40</Lat>
+      <Long>35.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>59.50</Lat>
+      <Long>36.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>59.50</Lat>
+      <Long>36.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>56.90</Lat>
+      <Long>42.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>56.90</Lat>
+      <Long>43.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>57.00</Lat>
+      <Long>43.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>56.20</Lat>
+      <Long>42.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>56.10</Lat>
+      <Long>42.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>56.00</Lat>
+      <Long>42.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>55.30</Lat>
+      <Long>42.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>55.10</Lat>
+      <Long>42.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>55.10</Lat>
+      <Long>42.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>54.70</Lat>
+      <Long>42.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>54.50</Lat>
+      <Long>42.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>54.30</Lat>
+      <Long>42.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>53.70</Lat>
+      <Long>42.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>53.90</Lat>
+      <Long>42.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>54.50</Lat>
+      <Long>42.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>54.70</Lat>
+      <Long>42.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>55.10</Lat>
+      <Long>42.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>55.10</Lat>
+      <Long>43.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>78.10</Lat>
+      <Long>74.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>78.20</Lat>
+      <Long>74.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>78.30</Lat>
+      <Long>74.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>39.50</Lat>
+      <Long>58.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>39.40</Lat>
+      <Long>58.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>39.40</Lat>
+      <Long>60.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>38.00</Lat>
+      <Long>60.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>37.10</Lat>
+      <Long>61.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>36.90</Lat>
+      <Long>61.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>33.80</Lat>
+      <Long>40.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>33.40</Lat>
+      <Long>42.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>33.30</Lat>
+      <Long>43.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>33.10</Lat>
+      <Long>43.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>29.10</Lat>
+      <Long>48.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>38.10</Lat>
+      <Long>49.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>38.00</Lat>
+      <Long>49.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>37.60</Lat>
+      <Long>46.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>37.70</Lat>
+      <Long>46.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>37.60</Lat>
+      <Long>46.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>38.10</Lat>
+      <Long>45.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>34.20</Lat>
+      <Long>49.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>37.40</Lat>
+      <Long>51.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>38.70</Lat>
+      <Long>52.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>59.70</Lat>
+      <Long>35.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>59.70</Lat>
+      <Long>36.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>59.50</Lat>
+      <Long>36.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>59.40</Lat>
+      <Long>35.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>41.20</Lat>
+      <Long>42.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>41.20</Lat>
+      <Long>42.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>57.30</Lat>
+      <Long>34.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>57.30</Lat>
+      <Long>34.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>57.10</Lat>
+      <Long>34.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>56.80</Lat>
+      <Long>35.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>56.40</Lat>
+      <Long>35.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>56.20</Lat>
+      <Long>35.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>39.10</Lat>
+      <Long>51.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>37.40</Lat>
+      <Long>67.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>37.30</Lat>
+      <Long>67.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>36.80</Lat>
+      <Long>66.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>36.70</Lat>
+      <Long>66.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>37.10</Lat>
+      <Long>67.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>36.70</Lat>
+      <Long>66.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>36.60</Lat>
+      <Long>66.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>37.90</Lat>
+      <Long>67.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>38.00</Lat>
+      <Long>67.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>38.10</Lat>
+      <Long>67.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>38.10</Lat>
+      <Long>67.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>39.10</Lat>
+      <Long>67.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>39.00</Lat>
+      <Long>67.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>39.00</Lat>
+      <Long>66.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>39.10</Lat>
+      <Long>67.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>39.00</Lat>
+      <Long>67.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>38.80</Lat>
+      <Long>66.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>38.80</Lat>
+      <Long>67.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>38.70</Lat>
+      <Long>67.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>38.60</Lat>
+      <Long>67.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>38.50</Lat>
+      <Long>66.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>38.30</Lat>
+      <Long>67.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>38.20</Lat>
+      <Long>67.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>38.10</Lat>
+      <Long>67.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>38.10</Lat>
+      <Long>67.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>28.10</Lat>
+      <Long>35.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>31.60</Lat>
+      <Long>34.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>31.70</Lat>
+      <Long>34.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>31.60</Lat>
+      <Long>34.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>31.10</Lat>
+      <Long>31.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>31.00</Lat>
+      <Long>31.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>17.00</Lat>
+      <Long>31.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>16.80</Lat>
+      <Long>31.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>30.50</Lat>
+      <Long>64.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>30.40</Lat>
+      <Long>64.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>31.60</Lat>
+      <Long>65.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>25.10</Lat>
+      <Long>79.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>25.00</Lat>
+      <Long>79.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>21.70</Lat>
+      <Long>73.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>28.20</Lat>
+      <Long>20.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>28.30</Lat>
+      <Long>20.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>62.20</Lat>
+      <Long>53.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>62.10</Lat>
+      <Long>53.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>62.20</Lat>
+      <Long>53.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>22.40</Lat>
+      <Long>81.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>29.80</Lat>
+      <Long>62.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>29.70</Lat>
+      <Long>62.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>29.50</Lat>
+      <Long>63.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>30.40</Lat>
+      <Long>64.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>30.50</Lat>
+      <Long>64.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>30.40</Lat>
+      <Long>64.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>31.50</Lat>
+      <Long>65.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>31.60</Lat>
+      <Long>65.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>39.90</Lat>
+      <Long>67.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>40.00</Lat>
+      <Long>67.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>40.20</Lat>
+      <Long>68.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>54.00</Lat>
+      <Long>45.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>55.90</Lat>
+      <Long>47.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>54.10</Lat>
+      <Long>49.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>54.10</Lat>
+      <Long>49.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>55.10</Lat>
+      <Long>53.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>55.10</Lat>
+      <Long>53.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>57.70</Lat>
+      <Long>67.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>37.60</Lat>
+      <Long>66.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>37.70</Lat>
+      <Long>66.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>38.20</Lat>
+      <Long>66.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>38.10</Lat>
+      <Long>66.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>38.30</Lat>
+      <Long>66.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>38.30</Lat>
+      <Long>66.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>38.00</Lat>
+      <Long>66.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rich Metal Deposit</LocationName>
+      <Lat>38.00</Lat>
+      <Long>66.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>17.40</Lat>
+      <Long>73.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>46.90</Lat>
+      <Long>51.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>49.70</Lat>
+      <Long>44.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>49.50</Lat>
+      <Long>44.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>48.70</Lat>
+      <Long>45.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>48.40</Lat>
+      <Long>46.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>49.30</Lat>
+      <Long>46.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>47.60</Lat>
+      <Long>44.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>48.20</Lat>
+      <Long>43.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>48.20</Lat>
+      <Long>41.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>48.60</Lat>
+      <Long>41.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>49.10</Lat>
+      <Long>42.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>49.40</Lat>
+      <Long>41.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>49.80</Lat>
+      <Long>41.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>48.50</Lat>
+      <Long>41.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>47.60</Lat>
+      <Long>41.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>47.50</Lat>
+      <Long>39.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>47.20</Lat>
+      <Long>39.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>47.20</Lat>
+      <Long>39.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>46.80</Lat>
+      <Long>40.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>46.40</Lat>
+      <Long>40.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>45.40</Lat>
+      <Long>41.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>45.20</Lat>
+      <Long>41.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>45.30</Lat>
+      <Long>41.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>44.30</Lat>
+      <Long>41.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>44.00</Lat>
+      <Long>41.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>42.80</Lat>
+      <Long>41.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>42.70</Lat>
+      <Long>40.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>45.60</Lat>
+      <Long>44.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>47.20</Lat>
+      <Long>43.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>46.60</Lat>
+      <Long>42.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>56.40</Lat>
+      <Long>34.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>56.70</Lat>
+      <Long>35.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>56.80</Lat>
+      <Long>35.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>57.00</Lat>
+      <Long>35.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>57.00</Lat>
+      <Long>34.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>57.10</Lat>
+      <Long>35.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>57.10</Lat>
+      <Long>34.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>57.20</Lat>
+      <Long>34.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>57.30</Lat>
+      <Long>34.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>57.30</Lat>
+      <Long>34.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>58.50</Lat>
+      <Long>42.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>58.50</Lat>
+      <Long>42.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>58.50</Lat>
+      <Long>42.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>58.30</Lat>
+      <Long>42.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>58.30</Lat>
+      <Long>42.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>58.30</Lat>
+      <Long>42.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>60.10</Lat>
+      <Long>33.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>59.30</Lat>
+      <Long>33.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>59.20</Lat>
+      <Long>33.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>59.10</Lat>
+      <Long>33.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>59.00</Lat>
+      <Long>33.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>59.10</Lat>
+      <Long>33.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>58.90</Lat>
+      <Long>33.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>36.60</Lat>
+      <Long>66.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>36.80</Lat>
+      <Long>66.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>37.50</Lat>
+      <Long>67.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>37.60</Lat>
+      <Long>67.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>37.90</Lat>
+      <Long>67.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>38.00</Lat>
+      <Long>67.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>38.30</Lat>
+      <Long>67.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>38.40</Lat>
+      <Long>67.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>38.90</Lat>
+      <Long>66.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>39.00</Lat>
+      <Long>66.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>60.30</Lat>
+      <Long>35.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>60.30</Lat>
+      <Long>35.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>60.30</Lat>
+      <Long>35.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>59.60</Lat>
+      <Long>35.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>59.80</Lat>
+      <Long>35.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>55.00</Lat>
+      <Long>53.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>54.90</Lat>
+      <Long>53.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>54.60</Lat>
+      <Long>53.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>54.60</Lat>
+      <Long>53.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>54.30</Lat>
+      <Long>53.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>54.00</Lat>
+      <Long>53.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>53.70</Lat>
+      <Long>53.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>53.80</Lat>
+      <Long>54.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>53.90</Lat>
+      <Long>54.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>54.30</Lat>
+      <Long>52.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>54.80</Lat>
+      <Long>52.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>54.90</Lat>
+      <Long>52.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>54.40</Lat>
+      <Long>47.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>54.70</Lat>
+      <Long>47.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>54.70</Lat>
+      <Long>47.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>55.30</Lat>
+      <Long>47.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>55.50</Lat>
+      <Long>47.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>55.80</Lat>
+      <Long>46.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>56.50</Lat>
+      <Long>46.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>56.50</Lat>
+      <Long>46.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Crystal Deposit</LocationName>
+      <Lat>56.00</Lat>
+      <Long>44.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Red Obelisk</LocationName>
+      <Lat>62.90</Lat>
+      <Long>59.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Clay</LocationName>
+      <Lat>53.80</Lat>
+      <Long>43.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Green Obelisk</LocationName>
+      <Lat>51.30</Lat>
+      <Long>23.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Salt Deposit</LocationName>
+      <Lat>51.30</Lat>
+      <Long>34.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Salt Deposit</LocationName>
+      <Lat>65.30</Lat>
+      <Long>54.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Red Gem</LocationName>
+      <Lat>17.40</Lat>
+      <Long>73.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Red Gem</LocationName>
+      <Lat>67.70</Lat>
+      <Long>75.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Red Gem</LocationName>
+      <Lat>64.60</Lat>
+      <Long>78.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Red Gem</LocationName>
+      <Lat>64.70</Lat>
+      <Long>78.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Red Gem</LocationName>
+      <Lat>64.60</Lat>
+      <Long>78.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Red Gem</LocationName>
+      <Lat>64.40</Lat>
+      <Long>79.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Red Gem</LocationName>
+      <Lat>64.50</Lat>
+      <Long>79.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Red Gem</LocationName>
+      <Lat>64.40</Lat>
+      <Long>79.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Red Gem</LocationName>
+      <Lat>72.40</Lat>
+      <Long>76.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Red Gem</LocationName>
+      <Lat>72.40</Lat>
+      <Long>76.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Red Gem</LocationName>
+      <Lat>72.40</Lat>
+      <Long>76.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Red Gem</LocationName>
+      <Lat>72.20</Lat>
+      <Long>76.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Red Gem</LocationName>
+      <Lat>72.30</Lat>
+      <Long>76.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>48.90</Lat>
+      <Long>28.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>48.80</Lat>
+      <Long>28.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>48.70</Lat>
+      <Long>28.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>48.80</Lat>
+      <Long>28.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>48.80</Lat>
+      <Long>28.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>51.10</Lat>
+      <Long>32.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>51.80</Lat>
+      <Long>30.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>50.60</Lat>
+      <Long>30.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>52.10</Lat>
+      <Long>32.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>52.70</Lat>
+      <Long>31.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>52.70</Lat>
+      <Long>31.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>52.70</Lat>
+      <Long>31.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>52.70</Lat>
+      <Long>31.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>52.70</Lat>
+      <Long>31.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>52.40</Lat>
+      <Long>30.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>52.30</Lat>
+      <Long>30.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>52.30</Lat>
+      <Long>30.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>52.10</Lat>
+      <Long>30.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>51.80</Lat>
+      <Long>30.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>50.60</Lat>
+      <Long>30.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>50.90</Lat>
+      <Long>32.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>50.90</Lat>
+      <Long>32.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>50.70</Lat>
+      <Long>32.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>52.00</Lat>
+      <Long>32.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>52.00</Lat>
+      <Long>32.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>49.10</Lat>
+      <Long>29.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>49.30</Lat>
+      <Long>35.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>48.60</Lat>
+      <Long>29.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>48.60</Lat>
+      <Long>29.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>48.80</Lat>
+      <Long>29.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>49.00</Lat>
+      <Long>29.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>49.40</Lat>
+      <Long>29.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>49.30</Lat>
+      <Long>29.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>49.40</Lat>
+      <Long>29.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>49.30</Lat>
+      <Long>33.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>49.40</Lat>
+      <Long>33.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>49.30</Lat>
+      <Long>33.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>49.20</Lat>
+      <Long>35.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>49.00</Lat>
+      <Long>35.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>49.10</Lat>
+      <Long>35.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>74.40</Lat>
+      <Long>72.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>64.60</Lat>
+      <Long>72.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>61.20</Lat>
+      <Long>73.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>61.30</Lat>
+      <Long>73.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>64.60</Lat>
+      <Long>71.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>61.30</Lat>
+      <Long>73.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>64.80</Lat>
+      <Long>70.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>65.10</Lat>
+      <Long>70.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>74.20</Lat>
+      <Long>75.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>76.40</Lat>
+      <Long>75.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>76.00</Lat>
+      <Long>75.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>79.00</Lat>
+      <Long>82.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>67.80</Lat>
+      <Long>75.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>72.30</Lat>
+      <Long>76.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>71.50</Lat>
+      <Long>80.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>64.70</Lat>
+      <Long>78.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>65.10</Lat>
+      <Long>74.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>64.50</Lat>
+      <Long>74.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Gas Vein</LocationName>
+      <Lat>64.50</Lat>
+      <Long>79.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>31.80</Lat>
+      <Long>25.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>31.40</Lat>
+      <Long>23.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>33.30</Lat>
+      <Long>26.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>34.00</Lat>
+      <Long>24.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>67.10</Lat>
+      <Long>36.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>66.80</Lat>
+      <Long>34.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>72.70</Lat>
+      <Long>43.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>70.50</Lat>
+      <Long>42.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>69.80</Lat>
+      <Long>40.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>71.70</Lat>
+      <Long>40.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>46.30</Lat>
+      <Long>32.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>42.90</Lat>
+      <Long>30.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>46.70</Lat>
+      <Long>36.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>45.30</Lat>
+      <Long>34.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>44.50</Lat>
+      <Long>38.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>44.90</Lat>
+      <Long>42.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>45.90</Lat>
+      <Long>39.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>35.50</Lat>
+      <Long>29.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>35.60</Lat>
+      <Long>33.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>40.20</Lat>
+      <Long>36.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>41.10</Lat>
+      <Long>29.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>40.00</Lat>
+      <Long>33.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>34.40</Lat>
+      <Long>34.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>33.40</Lat>
+      <Long>29.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>32.00</Lat>
+      <Long>29.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>30.30</Lat>
+      <Long>30.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>28.50</Lat>
+      <Long>29.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>28.70</Lat>
+      <Long>32.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>29.50</Lat>
+      <Long>34.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>32.30</Lat>
+      <Long>34.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>33.30</Lat>
+      <Long>36.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>34.40</Lat>
+      <Long>36.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>34.60</Lat>
+      <Long>37.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>33.30</Lat>
+      <Long>40.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>27.40</Lat>
+      <Long>31.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>23.50</Lat>
+      <Long>30.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>25.40</Lat>
+      <Long>29.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>25.60</Lat>
+      <Long>31.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>22.30</Lat>
+      <Long>32.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>66.10</Lat>
+      <Long>46.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>67.20</Lat>
+      <Long>47.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>70.60</Lat>
+      <Long>45.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>71.00</Lat>
+      <Long>48.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>66.60</Lat>
+      <Long>48.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>69.90</Lat>
+      <Long>56.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>72.50</Lat>
+      <Long>55.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>69.40</Lat>
+      <Long>55.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>42.80</Lat>
+      <Long>44.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>46.80</Lat>
+      <Long>44.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>43.10</Lat>
+      <Long>51.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>44.50</Lat>
+      <Long>56.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>37.30</Lat>
+      <Long>44.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>41.90</Lat>
+      <Long>45.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>39.50</Lat>
+      <Long>47.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>41.30</Lat>
+      <Long>57.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>36.40</Lat>
+      <Long>53.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>37.80</Lat>
+      <Long>54.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>40.60</Lat>
+      <Long>53.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>74.40</Lat>
+      <Long>73.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>77.20</Lat>
+      <Long>72.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>79.00</Lat>
+      <Long>69.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>72.20</Lat>
+      <Long>64.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>63.50</Lat>
+      <Long>72.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>64.00</Lat>
+      <Long>72.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>63.40</Lat>
+      <Long>67.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>63.10</Lat>
+      <Long>67.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>48.30</Lat>
+      <Long>72.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>48.10</Lat>
+      <Long>68.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>43.00</Lat>
+      <Long>67.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>48.10</Lat>
+      <Long>69.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>45.20</Lat>
+      <Long>73.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>48.70</Lat>
+      <Long>71.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>40.50</Lat>
+      <Long>71.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>40.90</Lat>
+      <Long>67.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>42.00</Lat>
+      <Long>67.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>37.80</Lat>
+      <Long>69.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>40.90</Lat>
+      <Long>67.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>40.40</Lat>
+      <Long>71.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>23.90</Lat>
+      <Long>72.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>23.20</Lat>
+      <Long>68.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>18.60</Lat>
+      <Long>69.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>20.60</Lat>
+      <Long>68.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>20.40</Lat>
+      <Long>72.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>27.20</Lat>
+      <Long>71.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>74.50</Lat>
+      <Long>76.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>73.00</Lat>
+      <Long>78.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>76.80</Lat>
+      <Long>75.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>64.10</Lat>
+      <Long>74.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>64.50</Lat>
+      <Long>74.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>65.10</Lat>
+      <Long>78.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>47.50</Lat>
+      <Long>78.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>45.40</Lat>
+      <Long>77.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>43.30</Lat>
+      <Long>76.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>42.60</Lat>
+      <Long>78.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>28.00</Lat>
+      <Long>77.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>23.60</Lat>
+      <Long>79.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>25.10</Lat>
+      <Long>76.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Water Vein</LocationName>
+      <Lat>21.90</Lat>
+      <Long>74.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rare Flowers</LocationName>
+      <Lat>57.40</Lat>
+      <Long>24.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Rare Flowers</LocationName>
+      <Lat>64.30</Lat>
+      <Long>25.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Black Pearls</LocationName>
+      <Lat>29.80</Lat>
+      <Long>68.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Black Pearls</LocationName>
+      <Lat>28.50</Lat>
+      <Long>72.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Black Pearls</LocationName>
+      <Lat>27.60</Lat>
+      <Long>79.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Black Pearls</LocationName>
+      <Lat>23.90</Lat>
+      <Long>78.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Black Pearls</LocationName>
+      <Lat>24.90</Lat>
+      <Long>79.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Black Pearls</LocationName>
+      <Lat>18.90</Lat>
+      <Long>76.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Black Pearls</LocationName>
+      <Lat>17.40</Lat>
+      <Long>70.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Black Pearls</LocationName>
+      <Lat>24.70</Lat>
+      <Long>67.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Black Pearls</LocationName>
+      <Lat>23.40</Lat>
+      <Long>70.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Black Pearls</LocationName>
+      <Lat>21.70</Lat>
+      <Long>73.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Black Pearls</LocationName>
+      <Lat>21.80</Lat>
+      <Long>75.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Black Pearls</LocationName>
+      <Lat>23.70</Lat>
+      <Long>75.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Black Pearls</LocationName>
+      <Lat>24.70</Lat>
+      <Long>74.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Black Pearls</LocationName>
+      <Lat>25.60</Lat>
+      <Long>73.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Black Pearls</LocationName>
+      <Lat>26.20</Lat>
+      <Long>66.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Blue Gem</LocationName>
+      <Lat>17.40</Lat>
+      <Long>73.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Blue Gem</LocationName>
+      <Lat>31.00</Lat>
+      <Long>73.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>29.80</Lat>
+      <Long>36.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>30.80</Lat>
+      <Long>36.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>30.90</Lat>
+      <Long>38.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>31.70</Lat>
+      <Long>38.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>31.50</Lat>
+      <Long>38.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>34.50</Lat>
+      <Long>59.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>30.50</Lat>
+      <Long>64.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>33.90</Lat>
+      <Long>59.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>34.10</Lat>
+      <Long>59.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>34.20</Lat>
+      <Long>58.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>34.00</Lat>
+      <Long>58.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>34.80</Lat>
+      <Long>59.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>29.30</Lat>
+      <Long>63.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>29.30</Lat>
+      <Long>62.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>34.60</Lat>
+      <Long>59.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>28.30</Lat>
+      <Long>62.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>31.90</Lat>
+      <Long>61.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>33.80</Lat>
+      <Long>59.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>31.60</Lat>
+      <Long>61.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>28.70</Lat>
+      <Long>63.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>30.80</Lat>
+      <Long>60.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>31.90</Lat>
+      <Long>62.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>32.50</Lat>
+      <Long>62.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>21.70</Lat>
+      <Long>68.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>21.70</Lat>
+      <Long>67.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>21.80</Lat>
+      <Long>66.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>18.10</Lat>
+      <Long>70.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>18.20</Lat>
+      <Long>70.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>17.80</Lat>
+      <Long>70.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>31.40</Lat>
+      <Long>25.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>32.00</Lat>
+      <Long>27.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>32.20</Lat>
+      <Long>25.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>32.30</Lat>
+      <Long>25.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>32.00</Lat>
+      <Long>25.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>28.30</Lat>
+      <Long>47.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>27.90</Lat>
+      <Long>47.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>28.00</Lat>
+      <Long>47.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>27.80</Lat>
+      <Long>46.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Oil Vein</LocationName>
+      <Lat>28.20</Lat>
+      <Long>47.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Sulfur Deposit</LocationName>
+      <Lat>48.40</Lat>
+      <Long>57.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Sulfur Deposit</LocationName>
+      <Lat>48.10</Lat>
+      <Long>57.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Sulfur Deposit</LocationName>
+      <Lat>49.50</Lat>
+      <Long>57.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Sulfur Deposit</LocationName>
+      <Lat>49.40</Lat>
+      <Long>57.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Sulfur Deposit</LocationName>
+      <Lat>48.40</Lat>
+      <Long>58.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>84.60</Lat>
+      <Long>18.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>61.40</Lat>
+      <Long>25.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>60.90</Lat>
+      <Long>25.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>84.70</Lat>
+      <Long>18.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>84.80</Lat>
+      <Long>18.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>82.70</Lat>
+      <Long>16.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>82.60</Lat>
+      <Long>16.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>82.50</Lat>
+      <Long>17.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>81.20</Lat>
+      <Long>16.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>81.20</Lat>
+      <Long>16.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>81.10</Lat>
+      <Long>17.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>81.00</Lat>
+      <Long>17.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>80.90</Lat>
+      <Long>16.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>80.90</Lat>
+      <Long>19.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>78.80</Lat>
+      <Long>22.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>78.80</Lat>
+      <Long>22.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>78.70</Lat>
+      <Long>22.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>76.60</Lat>
+      <Long>21.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>76.30</Lat>
+      <Long>21.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>76.00</Lat>
+      <Long>21.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>76.80</Lat>
+      <Long>21.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>75.90</Lat>
+      <Long>21.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>74.00</Lat>
+      <Long>22.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>73.90</Lat>
+      <Long>23.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>73.90</Lat>
+      <Long>22.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>73.80</Lat>
+      <Long>23.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>68.80</Lat>
+      <Long>20.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>68.70</Lat>
+      <Long>20.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>68.70</Lat>
+      <Long>20.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>68.50</Lat>
+      <Long>20.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>68.40</Lat>
+      <Long>20.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>65.20</Lat>
+      <Long>26.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>65.40</Lat>
+      <Long>26.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>62.10</Lat>
+      <Long>26.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>62.20</Lat>
+      <Long>26.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>62.30</Lat>
+      <Long>26.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>62.40</Lat>
+      <Long>26.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>61.70</Lat>
+      <Long>26.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>60.00</Lat>
+      <Long>35.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>60.30</Lat>
+      <Long>35.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>60.10</Lat>
+      <Long>35.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>59.70</Lat>
+      <Long>35.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>59.40</Lat>
+      <Long>35.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>59.30</Lat>
+      <Long>35.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>59.30</Lat>
+      <Long>36.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>59.50</Lat>
+      <Long>36.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>59.60</Lat>
+      <Long>36.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>59.60</Lat>
+      <Long>36.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>59.70</Lat>
+      <Long>36.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>54.30</Lat>
+      <Long>46.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>54.20</Lat>
+      <Long>46.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>55.00</Lat>
+      <Long>46.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>54.10</Lat>
+      <Long>45.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>55.60</Lat>
+      <Long>47.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>55.50</Lat>
+      <Long>47.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>55.60</Lat>
+      <Long>47.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>55.70</Lat>
+      <Long>47.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>55.30</Lat>
+      <Long>47.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>55.40</Lat>
+      <Long>47.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>55.40</Lat>
+      <Long>47.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>55.60</Lat>
+      <Long>48.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>55.50</Lat>
+      <Long>48.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>55.50</Lat>
+      <Long>48.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>56.10</Lat>
+      <Long>47.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>56.00</Lat>
+      <Long>47.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>56.00</Lat>
+      <Long>47.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>56.10</Lat>
+      <Long>47.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>56.30</Lat>
+      <Long>46.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>55.00</Lat>
+      <Long>48.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>55.10</Lat>
+      <Long>48.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>55.10</Lat>
+      <Long>48.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>55.20</Lat>
+      <Long>48.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>55.30</Lat>
+      <Long>48.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>55.40</Lat>
+      <Long>48.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>55.50</Lat>
+      <Long>48.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>55.70</Lat>
+      <Long>49.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>55.80</Lat>
+      <Long>49.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>55.40</Lat>
+      <Long>49.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>55.30</Lat>
+      <Long>49.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>54.80</Lat>
+      <Long>49.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>54.80</Lat>
+      <Long>49.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>54.40</Lat>
+      <Long>49.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>54.20</Lat>
+      <Long>49.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>54.10</Lat>
+      <Long>49.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>53.90</Lat>
+      <Long>49.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>54.00</Lat>
+      <Long>49.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>54.00</Lat>
+      <Long>49.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>54.10</Lat>
+      <Long>49.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>54.10</Lat>
+      <Long>49.10</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>54.20</Lat>
+      <Long>49.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>53.80</Lat>
+      <Long>49.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>53.60</Lat>
+      <Long>49.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>53.50</Lat>
+      <Long>49.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>53.40</Lat>
+      <Long>49.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>53.30</Lat>
+      <Long>49.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>53.30</Lat>
+      <Long>49.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>53.40</Lat>
+      <Long>49.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>52.90</Lat>
+      <Long>49.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>52.70</Lat>
+      <Long>49.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>55.20</Lat>
+      <Long>53.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>55.10</Lat>
+      <Long>53.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>61.60</Lat>
+      <Long>23.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>57.30</Lat>
+      <Long>26.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>57.20</Lat>
+      <Long>26.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>57.30</Lat>
+      <Long>26.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>41.30</Lat>
+      <Long>42.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>41.30</Lat>
+      <Long>42.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>41.20</Lat>
+      <Long>42.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>41.30</Lat>
+      <Long>42.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>41.20</Lat>
+      <Long>42.90</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>41.20</Lat>
+      <Long>42.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>41.00</Lat>
+      <Long>43.00</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>40.90</Lat>
+      <Long>43.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>39.30</Lat>
+      <Long>44.50</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>39.10</Lat>
+      <Long>44.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>38.90</Lat>
+      <Long>44.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>38.70</Lat>
+      <Long>44.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>37.70</Lat>
+      <Long>46.70</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>37.40</Lat>
+      <Long>46.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>37.60</Lat>
+      <Long>46.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>38.30</Lat>
+      <Long>48.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>38.20</Lat>
+      <Long>49.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>38.00</Lat>
+      <Long>49.20</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>37.90</Lat>
+      <Long>49.30</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>37.80</Lat>
+      <Long>49.40</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>39.90</Lat>
+      <Long>67.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>39.80</Lat>
+      <Long>67.60</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+    <NotableLoaction>
+      <LocationName>Metal Deposit</LocationName>
+      <Lat>40.00</Lat>
+      <Long>67.80</Long>
+      <MapName>Crystal Isles</MapName>
+    </NotableLoaction>
+  </NotableLocations>
+  <MapImage>https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/7/70/Crystal_Isles_Topographic_Map.jpg/revision/latest?cb=20200705193753</MapImage>
+</ResourceMap>

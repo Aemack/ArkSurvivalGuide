@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300" class="creatureMap" style="position:absolute;">
+<defs>
+    <filter id="blur" x="-30%" y="-30%" width="160%" height="160%">
+        <feGaussianBlur stdDeviation="3" />
+    </filter>
+    <style>
+        .spawningMap-very-common { fill: #0F0; }
+        .spawningMap-common { fill: #B2FF00; }
+        .spawningMap-uncommon { fill: #FF0; }
+        .spawningMap-very-uncommon { fill: #FC0; }
+        .spawningMap-rare { fill: #F60; }
+        .spawningMap-very-rare { fill: #F00; }
+        .spawning-map-point { stroke:black; stroke-width:1; }
+    </style>
+</defs>
+<g filter="url(#blur)" opacity="0.7">
+    <g class="spawningMap-uncommon">
+        <rect x="125" y="265" width="11" height="11" />
+        <rect x="125" y="271" width="11" height="11" />
+        <rect x="119" y="260" width="12" height="11" />
+        <rect x="159" y="248" width="11" height="11" />
+        <rect x="165" y="248" width="11" height="11" />
+        <rect x="148" y="254" width="11" height="11" />
+        <rect x="148" y="259" width="11" height="12" />
+        <rect x="165" y="254" width="11" height="11" />
+        <rect x="159" y="259" width="11" height="12" />
+        <rect x="165" y="259" width="11" height="12" />
+        <rect x="159" y="254" width="11" height="11" />
+        <rect x="154" y="254" width="11" height="11" />
+        <rect x="154" y="259" width="11" height="12" />
+        <rect x="125" y="248" width="11" height="11" />
+        <rect x="142" y="248" width="11" height="11" />
+        <rect x="125" y="254" width="11" height="11" />
+        <rect x="131" y="254" width="11" height="11" />
+        <rect x="125" y="259" width="11" height="12" />
+        <rect x="131" y="259" width="11" height="12" />
+        <rect x="136" y="254" width="12" height="11" />
+        <rect x="142" y="254" width="11" height="11" />
+        <rect x="136" y="248" width="12" height="11" />
+        <rect x="136" y="259" width="12" height="12" />
+        <rect x="142" y="259" width="11" height="12" />
+        <rect x="131" y="248" width="11" height="11" />
+        <rect x="154" y="265" width="11" height="12" />
+        <rect x="159" y="265" width="11" height="12" />
+        <rect x="154" y="271" width="11" height="11" />
+        <rect x="159" y="271" width="11" height="11" />
+        <rect x="165" y="265" width="11" height="12" />
+        <rect x="171" y="265" width="11" height="12" />
+        <rect x="171" y="271" width="11" height="11" />
+        <rect x="176" y="259" width="12" height="12" />
+        <rect x="176" y="265" width="12" height="12" />
+        <rect x="131" y="265" width="11" height="12" />
+        <rect x="136" y="265" width="12" height="12" />
+        <rect x="131" y="271" width="11" height="11" />
+        <rect x="136" y="271" width="12" height="11" />
+        <rect x="142" y="265" width="11" height="12" />
+        <rect x="148" y="265" width="11" height="12" />
+        <rect x="142" y="271" width="11" height="11" />
+        <rect x="148" y="271" width="11" height="11" />
+        <rect x="119" y="265" width="11" height="11" />
+        <rect x="119" y="271" width="11" height="11" />
+        <rect x="119" y="254" width="11" height="11" />
+        <rect x="176" y="271" width="12" height="11" />
+        <rect x="176" y="254" width="12" height="11" />
+        <rect x="108" y="271" width="11" height="11" />
+        <rect x="91" y="271" width="11" height="11" />
+        <rect x="171" y="259" width="11" height="12" />
+        <rect x="171" y="254" width="11" height="11" />
+        <rect x="171" y="248" width="11" height="11" />
+        <rect x="114" y="265" width="11" height="11" />
+        <rect x="114" y="271" width="11" height="11" />
+        <rect x="97" y="271" width="11" height="11" />
+        <rect x="102" y="271" width="11" height="11" />
+        <rect x="134" y="242" width="11" height="11" />
+        <rect x="148" y="248" width="11" height="11" />
+        <rect x="154" y="248" width="11" height="11" />
+        <rect x="165" y="271" width="11" height="11" />
+    </g>
+    <g class="spawningMap-common">
+        <rect x="154" y="277" width="11" height="9" />
+        <rect x="159" y="277" width="11" height="9" />
+        <rect x="171" y="277" width="11" height="9" />
+        <rect x="165" y="277" width="11" height="9" />
+        <rect x="176" y="277" width="12" height="9" />
+        <rect x="182" y="277" width="11" height="9" />
+        <rect x="108" y="277" width="11" height="9" />
+        <rect x="114" y="277" width="11" height="9" />
+        <rect x="119" y="277" width="11" height="9" />
+        <rect x="131" y="277" width="11" height="9" />
+        <rect x="125" y="277" width="11" height="9" />
+        <rect x="97" y="277" width="11" height="8" />
+        <rect x="136" y="277" width="12" height="9" />
+        <rect x="148" y="277" width="11" height="9" />
+        <rect x="142" y="277" width="11" height="9" />
+    </g>
+    <g class="spawningMap-very-common">
+        <rect x="192" y="93" width="11" height="11" />
+        <rect x="186" y="93" width="11" height="11" />
+        <rect x="180" y="93" width="11" height="11" />
+        <rect x="174" y="93" width="11" height="11" />
+        <rect x="175" y="87" width="11" height="11" />
+        <rect x="175" y="82" width="11" height="11" />
+        <rect x="175" y="76" width="11" height="11" />
+        <rect x="174" y="72" width="11" height="11" />
+        <rect x="180" y="70" width="11" height="11" />
+    </g></g>
+<g class="spawning-map-point" opacity="0.8">
+    <g class="spawningMap-very-common">
+        <circle cx="252" cy="265" r="4.0" />
+        <circle cx="252" cy="265" r="4.0" />
+        <circle cx="251" cy="265" r="4.0" />
+        <circle cx="251" cy="265" r="4.0" />
+        <circle cx="250" cy="266" r="4.0" />
+        <circle cx="250" cy="265" r="4.0" />
+        <circle cx="250" cy="266" r="4.0" />
+        <circle cx="248" cy="269" r="4.0" />
+        <circle cx="248" cy="268" r="4.0" />
+        <circle cx="249" cy="269" r="4.0" />
+        <circle cx="249" cy="268" r="4.0" />
+        <circle cx="250" cy="268" r="4.0" />
+        <circle cx="249" cy="268" r="4.0" />
+        <circle cx="248" cy="268" r="4.0" />
+        <circle cx="248" cy="267" r="4.0" />
+        <circle cx="246" cy="269" r="4.0" />
+        <circle cx="247" cy="269" r="4.0" />
+        <circle cx="247" cy="269" r="4.0" />
+        <circle cx="248" cy="269" r="4.0" />
+        <circle cx="242" cy="269" r="4.0" />
+        <circle cx="243" cy="269" r="4.0" />
+        <circle cx="243" cy="269" r="4.0" />
+        <circle cx="244" cy="269" r="4.0" />
+        <circle cx="245" cy="267" r="4.0" />
+        <circle cx="245" cy="267" r="4.0" />
+        <circle cx="245" cy="267" r="4.0" />
+        <circle cx="246" cy="267" r="4.0" />
+        <circle cx="247" cy="267" r="4.0" />
+        <circle cx="187" cy="90" r="4.0" />
+        <circle cx="186" cy="90" r="4.0" />
+        <circle cx="187" cy="91" r="4.0" />
+        <circle cx="186" cy="92" r="4.0" />
+        <circle cx="186" cy="91" r="4.0" />
+        <circle cx="188" cy="91" r="4.0" />
+        <circle cx="188" cy="91" r="4.0" />
+        <circle cx="186" cy="90" r="4.0" />
+    </g></g>
+</svg>

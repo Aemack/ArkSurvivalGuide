@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300" class="creatureMap" style="position:absolute;">
+<defs>
+<filter id="blur" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" />
+</filter>
+<pattern id="pattern-untameable" width="10" height="10" patternTransform="rotate(135)" patternUnits="userSpaceOnUse"><rect width="4" height="10" fill="black"></rect>
+</pattern>
+<filter id="groupStroke"><feFlood result="outsideColor" flood-color="black"/><feMorphology in="SourceAlpha" operator="dilate" radius="2"/><feComposite result="strokeoutline1" in="outsideColor" operator="in"/><feComposite result="strokeoutline2" in="strokeoutline1" in2="SourceAlpha" operator="out"/><feGaussianBlur in="strokeoutline2" result="strokeblur" stdDeviation="1"/>
+</filter>
+<style>
+.spawningMap-very-common { fill: #0F0;}
+.spawningMap-common { fill: #B2FF00;}
+.spawningMap-uncommon { fill: #FF0;}
+.spawningMap-very-uncommon { fill: #FC0;}
+.spawningMap-rare { fill: #F60;}
+.spawningMap-very-rare { fill: #F00; }.spawning-map-point {stroke:black; stroke-width:1;}
+</style>
+</defs>
+<g filter="url(#blur)" opacity="0.7">
+<g class="spawningMap-uncommon"><rect x="151" y="184" width="10" height="9" /><rect x="151" y="173" width="10" height="10" /><rect x="151" y="163" width="10" height="9" /><rect x="140" y="163" width="10" height="9" /><rect x="140" y="173" width="10" height="10" /><rect x="140" y="184" width="10" height="9" /><rect x="129" y="184" width="10" height="9" /><rect x="118" y="184" width="10" height="9" /><rect x="107" y="184" width="10" height="9" /><rect x="107" y="195" width="10" height="9" /><rect x="118" y="195" width="10" height="9" /><rect x="129" y="195" width="10" height="9" /><rect x="100" y="120" width="10" height="10" /><rect x="111" y="120" width="10" height="10" /><rect x="122" y="120" width="10" height="10" /><rect x="122" y="130" width="10" height="10" /><rect x="111" y="130" width="10" height="10" /><rect x="133" y="130" width="10" height="10" /><rect x="144" y="130" width="10" height="10" /><rect x="144" y="141" width="10" height="10" /><rect x="133" y="141" width="10" height="10" /><rect x="122" y="141" width="10" height="10" /><rect x="122" y="152" width="10" height="10" /><rect x="122" y="163" width="10" height="9" /><rect x="111" y="163" width="10" height="9" /><rect x="111" y="152" width="10" height="10" /><rect x="111" y="141" width="10" height="10" /><rect x="133" y="152" width="10" height="10" /><rect x="144" y="152" width="10" height="10" /><rect x="155" y="152" width="10" height="10" /><rect x="166" y="152" width="10" height="10" /><rect x="166" y="163" width="10" height="9" /><rect x="166" y="173" width="10" height="10" /><rect x="177" y="173" width="10" height="10" /><rect x="177" y="184" width="10" height="9" /><rect x="173" y="195" width="10" height="9" /><rect x="173" y="205" width="10" height="10" /><rect x="184" y="205" width="10" height="10" /><rect x="184" y="195" width="10" height="9" /><rect x="195" y="189" width="10" height="10" /><rect x="191" y="179" width="11" height="10" /><rect x="191" y="168" width="11" height="10" /><rect x="162" y="216" width="10" height="9" /><rect x="162" y="205" width="10" height="10" /><rect x="151" y="216" width="10" height="9" /><rect x="140" y="216" width="10" height="9" /><rect x="129" y="216" width="10" height="9" /><rect x="129" y="205" width="10" height="10" /><rect x="140" y="205" width="10" height="10" /><rect x="151" y="205" width="10" height="10" /><rect x="151" y="195" width="10" height="9" />
+</g>
+<g class="spawningMap-common"><rect x="188" y="170" width="3" height="10" /><rect x="173" y="216" width="10" height="3" />
+</g>
+</g>
+<g class="spawning-map-point" opacity="0.8">
+</g>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300" class="creatureMap" style="position:absolute;">
+<defs>
+    <filter id="blur" x="-30%" y="-30%" width="160%" height="160%">
+        <feGaussianBlur stdDeviation="3" />
+    </filter>
+    <style>
+        .spawningMap-very-common { fill: #0F0; }
+        .spawningMap-common { fill: #B2FF00; }
+        .spawningMap-uncommon { fill: #FF0; }
+        .spawningMap-very-uncommon { fill: #FC0; }
+        .spawningMap-rare { fill: #F60; }
+        .spawningMap-very-rare { fill: #F00; }
+        .spawning-map-point { stroke:black; stroke-width:1; }
+    </style>
+</defs>
+<g class="spawning-map-point" opacity="0.8">
+    <g class="spawningMap-very-common">
+        <circle cx="162" cy="91" r="4.0" />
+        <circle cx="162" cy="90" r="4.0" />
+        <circle cx="162" cy="90" r="4.0" />
+        <circle cx="165" cy="92" r="4.0" />
+        <circle cx="165" cy="92" r="4.0" />
+        <circle cx="165" cy="91" r="4.0" />
+        <circle cx="166" cy="91" r="4.0" />
+        <circle cx="160" cy="88" r="4.0" />
+        <circle cx="161" cy="88" r="4.0" />
+        <circle cx="161" cy="88" r="4.0" />
+        <circle cx="161" cy="88" r="4.0" />
+        <circle cx="162" cy="94" r="4.0" />
+        <circle cx="162" cy="94" r="4.0" />
+        <circle cx="163" cy="95" r="4.0" />
+        <circle cx="163" cy="95" r="4.0" />
+        <circle cx="163" cy="95" r="4.0" />
+        <circle cx="164" cy="95" r="4.0" />
+    </g></g>
+</svg>

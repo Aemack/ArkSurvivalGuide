@@ -1,0 +1,30 @@
+﻿Set Scraper to download
+PNG image of creature
+Dossier
+	Base Stats
+Spawn command
+
+Set up Pinch and Pan for Resource Map
+
+
+Fix UI 
+	Set up Colour dictionary
+	Add Cards For lists
+	Add Fonts
+	Set up margins and padding
+	General Tidy up	+ Adding Telerk tools
+
+Cave Tab?
+
+Set up trophy and achievments tab
+	Set up scraper
+		Name
+		Location
+		Spawn command
+		Image
+		Creature to kill
+		Used for which boss
+
+
+
+
